@@ -75,8 +75,8 @@ obsidian-spaced-repetition-recall
 ## 🚀 快速開始
 
 1. 安裝 [Obsidian](https://obsidian.md) 並建立 Vault。
-2. 將題庫以 Markdown 檔案儲存，並加上 YAML Frontmatter（包含科目、難度、標籤等）。
-3. 啟用上述外掛，並依需求調整設定。
+2. 啟用上述外掛，並依需求調整設定。
+3. 參照由創作者拍的YT操作說明影片： 並 同時檢視根目錄中的"提示資料夾"
 4. 使用 Dataview 查詢題目、Templater 新增題目模板，逐步建立個人化題庫系統。
 
 ---
