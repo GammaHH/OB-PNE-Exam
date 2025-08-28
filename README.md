@@ -23,7 +23,7 @@ updated: 2025-08-28 21:15
 
 ### 多平台即時同步（建議使用 Obsidian Sync）
 
-* Windows / macOS / iOS / Android 同步同一個 Vault，該訂閱不限人數
+* Windows / macOS / iOS / Android 同步同一個 Vault，該訂閱不限人數/裝置且可跨平台使用，高度適合作為共筆平台使用 (每月才10鎂，包年8鎂)
 * 自動處理筆記版本；可搭配 Ignore 規則降低衝突。
 
 ### Obsidian 介面（輕量、高度自定義、快速）
